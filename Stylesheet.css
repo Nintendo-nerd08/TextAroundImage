@@ -1,5 +1,5 @@
 #photo{
-    float: left;
+    float: unset;
     border: 1px solid deepskyblue;
     text-align: center;
 }
